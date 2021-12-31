@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Contrail+One&display=swap');
+
+
+#display{
+    width:300px;
+    height: 100px;
+    background-color: black;
+    color:greenyellow;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Contrail One',sans-serif;
+    font-size: 3em;
+    margin-top: 15%;
+    margin-left:40%;
+}
